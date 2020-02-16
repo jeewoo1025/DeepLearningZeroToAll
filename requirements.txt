@@ -10,3 +10,5 @@ scikit_learn
 # torchvision
 tqdm
 pylint
+
+/////////////////////////////// 오픈소스에 기여하기 위해 공부 중 입니다.
